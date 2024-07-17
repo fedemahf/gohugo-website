@@ -13,25 +13,53 @@ images:
 
 ![super neet post](/assets/super_neet_post.png)
 
-I don't think it's just anime pfps, autism, nootropics, or any other obscure
-traits and behaviors that these people seem to have. 
+It's not just that super neets want to have fun - their identity, tastes, and
+abilities have been refined beyond anything you typically see in distribution.
 
-It's all probably just part of a funny bit.
+If you look into their past life, you might notice anime pfps, autism,
+nootropics, and other seemingly obscure traits and behaviors...
 
-> \> george hotz is smart... if only he fixed his ego
+Many people look for ways to write off their success:
 
-Look past the fun and eccentric persona and you'll realize these are good
+> - \> some freak life trajectory from an early age
+> - \> a unique time in history
+> - \> wealthy/intelligent family
+
+Or they are looking for some "irredeemable trait"
+
+> \> george hotz is so smart... if only he fixed his ego
+
+In most cases, they are probably doing a funny bit.
+
+Look past the fun and eccentric personas and you'll realize these are good
 people who are actually cracked all around:
 
 1. strong executive function
 2. deep in a skill tree + well-versed across domains
 3. highly charismatic
 
-Maybe the white pill is that they probably only had slightly above average IQ
-and relatively ordinary circumstances. 
+These people just tend to work hard + read a lot (internet, blogs, books, etc.)
 
-The rest of their success can probably be attributed to the tendency to work
-hard + read a lot (internet, blogs, books, etc.)
+# hypothesis
+
+> "neet" is end game.
+
+"**super neet**" - virtually infinite resources, traversing every branch of the
+tech tree, roaming around handing out side quests to other players
+
+No one reaches this point by trying to be particularly "weird". You're
+observing people who are just trying to fully express their agency.
+
+Any good MMO, leaves room for players to find their own ways to
+have fun.
+
+> \> no chat/voice?
+
+wave your mouse around, spam crouch, or jump up and down
+
+> \> no cute anime backgrounds?
+
+[mathjax css exploit](https://kennethnym.com/blog/mathjax-css-injection/)
 
 # the super neet filter
 
@@ -52,15 +80,15 @@ This is good, actually.
 "Doing things that normal people do" keeps you grounded in reality and you'll
 be rewarded quite well for being a good participant in this system.
 
-The thing about becoming a neet *later* in life is that the path is not obvious
-and things will get much worse before it ever seems to get better.
+The thing about pursuing neet life *later* on is that the path is not obvious
+and things will get much worse before it can ever get better.
 
 This is the super neet filter.
 
 # worth an attempt
 
-The super neet is probably an end-game for most people, but many will overstate
-the difficulty and underestimate the time it takes to get there.
+Many overstate the difficulty and underestimate the time it takes to get
+there.
 
 ![worth_an_attempt](/assets/for_preferred_homie.png)
 
