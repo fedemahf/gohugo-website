@@ -1,4 +1,4 @@
-baseURL = 'https://federico.mahfoud.ar/'
+baseURL = 'https://fedemahf.github.io/gohugo-website/'
 languageCode = 'en-us'
 title = 'Federico Mahfoud'
 disableKinds = ["taxonomy", "term"]
@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   title = 'posts'
   url = '/posts/'
   weight = 20
-  
+
 [[menu.socials]]
   name = 'linkedin'
   url = 'https://linkedin.com/in/fedemahf'
