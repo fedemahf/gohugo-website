@@ -1,50 +1,40 @@
-baseURL = 'https://hitorilabs.com/'
+baseURL = 'https://federico.mahfoud.ar/'
 languageCode = 'en-us'
-title = 'hitorilabs'
+title = 'Federico Mahfoud'
 disableKinds = ["taxonomy", "term"]
 
 [menu]
 [[menu.main]]
   identifier = 'home'
   name = 'home'
-  title = 'hitorilabs | home'
+  title = 'home'
   url = '/'
   weight = 10
 [[menu.main]]
   identifier = 'posts'
   name = 'posts'
-  title = 'hitorilabs | posts'
+  title = 'posts'
   url = '/posts/'
   weight = 20
-[[menu.main]]
-  identifier = 'log'
-  name = 'log'
-  title = 'hitorilabs | log'
-  url = '/log/'
-  weight = 30
   
 [[menu.socials]]
-  name = 'github'
-  url = 'https://github.com/hitorilabs'
+  name = 'linkedin'
+  url = 'https://linkedin.com/in/fedemahf'
   weight = 10
 [[menu.socials]]
-  name = 'twitter'
-  url = 'https://twitter.com/hitorilabs'
+  name = 'github'
+  url = 'https://github.com/fedemahf'
   weight = 20
 [[menu.socials]]
-  name = 'twitch'
-  url = 'https://www.twitch.tv/hitorilabs'
+  name = 'twitter'
+  url = 'https://twitter.com/fedemahf'
   weight = 30
-[[menu.socials]]
-  name = 'mal'
-  url = 'https://myanimelist.net/animelist/hitorilabs'
-  weight = 40
 
 
 [params]
-  description = 'Independent research group working on software for AI'
+  description = ''
   images = ['favicon-32x32.png']
-  title = 'hitorilabs'
+  title = ''
 
 [outputs]
   home = ['html']

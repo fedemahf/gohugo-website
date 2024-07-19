@@ -1,4 +1,4 @@
 ---
-title: hitorilabs
-subtitle: home of hitorilabs
+title: posts
+subtitle: posts
 ---
