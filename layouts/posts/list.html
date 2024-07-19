@@ -23,5 +23,12 @@
         {{ end }}
         </ul>
     </div>
+    <footer id="site-footer" class="section">
+    {{ range .Site.Menus.socials }}
+        <a href="{{ .URL }}" title="{{ .Title }}">
+        {{- .Name -}}
+        </a>
+    {{ end }}
+    </footer>
 </main>
 {{ end }}
