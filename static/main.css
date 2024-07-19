@@ -3,6 +3,7 @@
     --text-color: #333;
     --link-color: #0000EE;
     --gray-accent-color: #dedede;
+    --font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 body {

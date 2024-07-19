@@ -7,27 +7,6 @@ a.chrono-list-entry {
     text-decoration: none;
 }
 
-div.chrono-list {
-    display: flex;
-    justify-content: space-between;
-}
-
-span.chrono-list-date {
-    overflow: hidden; 
-    white-space: nowrap;
-}
-
-.chrono-list-label {
-    flex-shrink:0;
-    overflow: hidden; 
-    white-space: nowrap;
-    padding-left: 1ch;
-}
-
-span.chrono-list-date:after {
-    content:" . . . . . . . . . . . . . . . . . . . . . . . . ."
-}
-
 span.seemore > a {
     text-decoration: underline;
     display: block;
@@ -48,6 +27,14 @@ span.seemore > a:after {
     content: "]";
 }
 
-p, hr { 
+p, hr {
+    margin-bottom: 2ch;
+}
+
+main > ul > li:before {
+    content: "- ";
+}
+
+main > ul {
     margin-bottom: 2ch;
 }

@@ -7,30 +7,9 @@ a.chrono-list-entry {
     text-decoration: none;
 }
 
-div.chrono-list {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 0ch;
-}
-
-span.chrono-list-date {
-    overflow: hidden; 
-    white-space: nowrap;
-}
-
-.chrono-list-label {
-    flex-shrink:0;
-    overflow: hidden; 
-    white-space: nowrap;
-    padding-left: 1ch;
-}
-
-span.chrono-list-date:after {
-    content:" . . . . . . . . . . . . . . . . . . . . . . . . ."
-}
-
 span.summary {
     display: flex;
     margin-left: 2ch;
     margin-bottom: 1ch;
+    font-style: italic;
 }
