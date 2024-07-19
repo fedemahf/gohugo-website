@@ -33,7 +33,6 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = ''
-  images = ['favicon-32x32.png']
   title = ''
 
 [outputs]

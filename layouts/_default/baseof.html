@@ -8,10 +8,6 @@
         {{ .Site.Title }}
         {{ end }}
     </title>
-    <link rel="apple-touch-icon" sizes="180x180" href="/gohugo-website/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/gohugo-website/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/gohugo-website/favicon-16x16.png">
-    <link rel="icon" type="image/x-icon" href="/gohugo-website/favicon.ico">
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
     {{ end }}
