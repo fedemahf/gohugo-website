@@ -24,7 +24,7 @@
     {{ partial "recent_posts.html" . }}
     <footer id="site-footer" class="section">
     {{ range .Site.Menus.socials }}
-        <a href="{{ .URL }}" title="{{ .Title }}">
+        <a href="{{ .URL }}" title="{{ .Title }}" target="_blank">
         {{- .Name -}}
         </a>
     {{ end }}

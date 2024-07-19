@@ -24,7 +24,7 @@
   {{ .Content }}
   <footer id="site-footer">
   {{ range .Site.Menus.socials }}
-      <a href="{{ .URL }}" title="{{ .Title }}">
+      <a href="{{ .URL }}" title="{{ .Title }}" target="_blank">
       {{- .Name -}}
       </a>
   {{ end }}
